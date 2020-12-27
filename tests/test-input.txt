@@ -1,0 +1,40 @@
+It that is programming, is inherently hard.
+So what he is saying is that look there is nothing to be done here, this is a difficult subject and if 30% of the people are failing that is just an inherent property of the subject.
+Now I do not subscribe to this and I would like it if this is false but that is what an eminent educationist is saying, so we had better take notice.
+You could say that if 30% of the students are failing, maybe we are going too fast.
+In fact, in the recent conference Luxton-Reilly said that there is nothing like a hard subject, if something is hard for students, you break it down, you slow it down and you slow it down until you can produce a fair question paper consistent with what you are teaching and you get reasonable failure rates.
+Again that would be a very strong, very, very game changing decision if we decide it to slow down our courses.
+Furthermore, slowing down courses is easy to say but not easy to do because when you are talking about programming there is a certain body of knowledge that you want to impart.
+It is very difficult to break it down, so we may consider that we should break it down but breaking down will not be completely easy.
+We could also ask well are we teaching in the right manner or is there a different way to teach programming.
+Now there are many people who have said that actually if you look carefully at what we do in computer programming classes, we teach very little.
+Well, we teach the language but other than that we do not teach much.
+I am going to give you an old quote but there are newer quotes of this kind as well but this old quote is rather eloquent.
+And this is due to David Gries who is another stalwart in the field who says, but what do we really teach?
+We describe the tools the student has at his disposal, that is the do-loop, goto, declarations, etc, give a few examples and then tell him to write programs.
+Almost no word on how to begin, how to find ideas, how to structure his thoughts and how to arrive at a well-structured, well-written readable program.
+In fact, in the same paper, Gries gives an even more detailed analogy.
+He says something like suppose you wanted to teach somebody to make wooden cabinets.
+Suppose you did the following, suppose you showed him a few tools, maybe a saw, maybe some glue, maybe whatever tools are needed for making cabinets and you supplied the raw material and then you showed a few cabinets and then you say look now you know you have the tools, you know what is to be done, just go ahead and do it.
+Gries says that in fact this is the standard of computer science education, computer programming education when it comes to programming.
+We teach the language but we really do not teach how to write programs.
+This is strong criticism and I am sure many of us will object but many of us will also agree that there is more than a grain of truth to this.
+Are we able to motivate students to study?
+Now in this day of social media and cell phones, students are extremely distracted.
+So we need to do something to get their attention.
+There have been some studies and I am going to go over them a little bit more in detail during the course and they say that graphics and animation seem to motivate students, motivate children, even children can be motivated to write programs through the use of graphic set animation.
+So perhaps if we feel that our students are not getting motivated and when I say our students I mean college going students, if they are not being motivated, maybe we should try things like this.
+Last but not the least is the question of are our exams fair?
+Now over time researchers have used tests for measuring programming competency of students, the kind of passing numbers -- the number of students were passing the course is one kind of data but researchers have also conducted tests by asking students to write programs.
+And if you look at the earlier such tests, they were hard and as time went on the tests that researchers have been using have become easier and easier and will see those tests as well.
+So this raises the issue were our exams fair, some time ago are they now becoming fair, even at this point are they fair, somebody might say that look the tests that we are using are so easy now that they are not really measuring anything.
+So what is the fair test is a really important question and I think I would suggest that it is not an easy question to answer because experts seem to be divided, experts seem to be changing their minds about what is a good test.
+So all this leads us to this course, all this says that a course in which we discuss how to teach introductory programming is going to be very useful.
+So here are the goals of this course.
+(Refer Slide Time: 14:19)
+First, we will examine how introductory programming courses have been taught over the years.
+We will examine what the educational literature says are the difficulties.
+By this I mean specific aspect: is a loop difficult, is recursion difficult, what is difficult?
+Then, we will design the course objectives, we will suggest teaching strategies, we will suggest how to motivate students,and we will suggest how to create fair exams.
+(Refer Slide Time: 14:56)
+So let me give you a quick overview of the topics in this course.
