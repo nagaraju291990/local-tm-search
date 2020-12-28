@@ -24,6 +24,8 @@ inputfile = args.inputfile
 parallelfile = args.parallelfile
 
 
+
+
 #open file using open file mode
 fp1 = open(inputfile) # Open file on read mode -- input file
 input_lines = fp1.read().split("\n") # Create a list containing all lines
@@ -35,6 +37,9 @@ parallel_lines = fp2.read().split("\n") # Create a list containing all lines
 fp2.close() # Close file
 
 all_hash = {}
+
+
+fp3 = open('out.txt', 'w')
 
 for parallel_line in parallel_lines:
 
@@ -51,16 +56,39 @@ for parallel_line in parallel_lines:
 
 		all_hash[src] = tgt
 
-
+total_lines = 0
+replaced_lines = 0
+not_replaced_lines = 0
 for input_line in input_lines:
 
+	total_lines = total_lines + 1
 
-	tmp_line = input_line.strip()
-	tmp_line = re.sub(r' +', ' ', tmp_line)
+	if(input_line == ""):
+		print(input_line)
+		continue
+	src_tgt = input_line.split("\t")
 
-	tmp_line = tmp_line.lower()
-	if(tmp_line != ""):
-		if tmp_line in all_hash:
-			print(input_line, all_hash[tmp_line], sep="\t")
+	src_bkp = src_tgt[0]
+	src = src_tgt[0]
+	tgt = src_tgt[1]
+
+	src = src.strip()
+	src = re.sub(r' +', ' ', src)
+
+	src = src.lower()
+	if(src != ""):
+		if src in all_hash:
+			#print(src_bkp, all_hash[src], sep="\t")
+			fp3.write(src_bkp + "\t" + all_hash[src] + "\n")
+			replaced_lines = replaced_lines + 1
 		else:
-			print(input_line, "Not Found", "\t")
+			#print(input_line, "Not Found", "\t")
+			fp3.write(input_line + "\n")
+			not_replaced_lines = not_replaced_lines + 1
+
+
+print("Total lines = %d, Match Found in %d lines, No Match in %d lines" %(total_lines-1, replaced_lines, not_replaced_lines))
+
+fp3.close()
+
+	
