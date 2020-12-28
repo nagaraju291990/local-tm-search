@@ -1,0 +1,187 @@
+Guidance Document 	வழிகாட்டி ஆவணம்
+Clause | Key Element | Section | Sub Elements | Sub section | Requirements	பிரிவு | முக்கிய உறுப்பு | பிரிவு | துணைக் கூறுகள் | துணை பிரிவு | தேவைகள்
+1 |	1 |
+Management Commitment	மேலாண்மைப் பொறுப்பு
+1.1|	1.1 |
+Regulatory Aspects	ஒழுங்குமுறை அம்சங்கள்
+1.1.1|	1.1.1 |
+3. Gaming Arcades/Children play areas (wherever applicable) shall remain closed till as advised.	3. (பொருந்தும் தன்மைப்படி) விளையாட்டு நடைகள்/ குழந்தைகள் விளையாடும் பகுதிகள் அடுத்த அறிவிப்பு வரை மூடப்படும்.
+1.2|	1.2 |
+Rapid Response Personnel	அதிவிரைவு எதிர்வினையாளர்
+1.2.1|	1.2.1 |
+2. Name, Designation and contact information of the nominated senior person shall be communicated to all concerned.	2. பரிந்துரைக்கப்பட்ட மூத்த அதிகாரியின் பெயர், பதவி மற்றும் அவரது தொடர்புத் தகவல்கள் சம்பந்தப்பட்ட அனைவருக்கும் தெரிவிக்கப்படும்.
+3. The nominated person shall be responsible to prevent incidents, effectively manage cases and mitigate impact among guests, staff and other involved parties.	3. நியமிக்கப்பட்ட அதிகாரி, நோய்த் தாக்குதல்களைத் தடுக்கவும், பாதிக்கப்பட்டவர்களைத் திறம்படக் கையாளவும், விருந்தினர்கள்- ஊழியர்கள் மற்றும் தொடர்புடைய அனைவரிடமும் நோய்த்தாக்கத்தைக் குறைக்கவும் பொறுப்பேற்பார்.
+1.3|	1.3 |
+Adequacy of Resources	மூலவளங்களின் போதிய தன்மை
+1.3.1|	1.3.1 |
+- Thermal Gun thermometer for temperature checking of staff and guests at all entry points.	- அனைத்து நுழைவிடங்களிலும் ஊழியர்கள் மற்றும் விருந்தினர்களின் வெப்பநிலைச் சோதனைக்கான துப்பாக்கி வெப்பமானி.
+- Hand-wash soap, Hand Sanitizers, Hand Gloves, Masks, coveralls (as needed)	- (தேவைக்கேற்ப) கை கழுவும் சோப்பு, கை சுத்திகரிப்பான்கள், கையுறைகள், முகமூடிகள், போர்த்தும் உடைகள்
+- Garbage Bags (separate bio-hazard bags for used masks and other PPEs as per CPCB’s guidelines)	- குப்பைப் பைகள் (மத்தியஅரசு மாசுக்கட்டுப்பாட்டு வாரியத்தின் நெறிமுறைப்படி, பயன்படுத்தப்பட்ட முகமூடிகள் மற்றும் பிற தனிநபர் பாதுகாப்புக் கருவிகளுக்கான தனி அபாயப் பைகள்)
+- Sufficient disinfectants like sodium hypochlorite (1%)	- சோடியம் ஹைபோகுளோரைட் (1%) போன்ற போதுமான கிருமிநாசினிகள்
+Clause | Key Element | Section | Sub Elements | Sub section | Requirements	பிரிவு | முக்கிய உறுப்பு | பிரிவு | துணைக் கூறுகள் | துணை பிரிவு | தேவைகள்
+2|	2 |
+Hygiene & Sanitization	சுகாதாரமும் தூய்மைப்படுத்தலும்
+2.1|	2.1 |
+Restaurant sanitization	உணவகத் தூய்மைப்படுத்தல்
+2.1.1|	2.1.1 |
+Dining Area:	உணவருந்தும் இடம்:
+1. Provide safe, sanitized and clinically clean environment to the visitors and staff.	1. வருகையாளர்களுக்கும் ஊழியர்களுக்கும் பாதுகாப் பான, சுத்திகரிக்கப்பட்ட, மருத்துவ ரீதியாகச் சுத்தமான சூழலை வழங்கவும்.
+2. All major touch points, operating panels, seats, covers, toolbox etc. requiring human touch should be sanitized at an hourly frequency, or when needed, with effective sanitizers.	2. அனைத்து முக்கிய புழங்குமிடங்கள், நடக்கும் பேனல்கள், இருக்கைகள், இருக்கையுறைகள், கருவிப்பெட்டி போன்றவற்றை ஒரு மணிநேர இடைவெளியில் அல்லது தேவைப்படும்போது, ​​திறன்மிக்க சுத்திகரிப்பான்களால் தூய்மையாக்க வேண்டும்.
+2.1.2|	2.1.2 |
+Kitchen / Food Production Area:	சமையலறை / உணவு தயாரிக்கும் பகுதி:
+It is recommended to follow the safety/sanitization measures mentioned below- for kitchen/ food preparation area:	சமையலறை / உணவு தயாரிக்கும் பகுதிக்கு கீழே குறிப்பிடப்பட்டுள்ள பாதுகாப்பு / தூய்மையாக்க நடவடிக்கைகள் பரிந்துரைக்கப்படுகின்றன:
+1. Operational kitchens must be sanitized at regular intervals.	1. புழக்கத்திலுள்ள சமையலறைகள் சரியான கால இடைவெளியில் தூய்மையாக்கப்பட வேண்டும்.
+2. Strict adherence to HAACP or ISO or FSSAI norms and guidelines for sanitization and hygiene in receiving, storing, and cooking of food items.	2. haacp (இடர்ப்பகுப்பாய்வு, முக்கியக் கட்டுப் பாட்டு இடங்கள் நிர்வாகம்) அல்லது iso (பன்னாட்டுத் தர நிறுவனம்) அல்லது fssai (இந்திய உணவுப் பாதுகாப்பு மற்றும் தர நிறுவனம்) இவற்றின் விதிமுறைகளின்படி உணவுப் பொருட்களைப் பெறுதல், சேமித்தல், சமைப்பதில் சுகாதாரம் மற்றும் சுகாதாரத்திற்கான நெறிமுறைகளைக் கண்டிப்பாக பின்பற்ற வேண்டும்.
+3. Ensure all tools get sanitized regularly.	3. அனைத்துக் கருவிகளும் தவறாமல் தூய்மையாக் கப்படுவதை உறுதிசெய்ய வேண்டும.
+4. Along with proper hand washing, food workers should use a barrier such as tongs, gloves or utensils to prevent direct hand contact with food (wherever possible).	4. முறையான கை கழுவுதலுடன், (முடிந்தவரை) உணவுப் பணியாளர்கள் உணவுடன் நேரடியாகத் தொடர்பு கொள்வதைத் தடுக்க, குறடுகள், கையுறை கள் அல்லது பாத்திரங்கள் போன்ற கருவிகளைப் பயன்படுத்த வேண்டும்.
+5. Appropriate processes for handling perishable and non-perishable items may be instituted. Ready-to-eat food items may not be left open and handled appropriately.	5. கெட்டுப்போகக்கூடிய அன்றியும் கெடாத/அழுகாத பொருட்களைக் கையாள்வதற்கான பொருத்தமான நடைமுறைகளைப் பயன்படுத்த வேண்டும். சாப்பிடத் தயாரான உணவுப் பொருட்களைத் திறந்து வைக்கக் கூடாது, சரியான முறையில் கையாளவேண்டும்.
+6. Keep foods separated to avoid cross contamination, e.g., keeping raw foods separated from cooked and ready-to-eat foods.	6. ஒன்றிலிருந்து ஒன்று மாசுபடுவதைத் தவிர்க்க உணவுகளை பிரித்து வைத்திருங்கள். உதாரணமாக, சமைத்த மற்றும் சாப்பிடத் தயாரான உணவுகளி லிருந்து சமைக்காத உணவுகளைப் பிரித்து வைத்திருங்கள்.
+Bar Area (if applicable):	மதுவருந்தும் இடம் (பொருந்தினால்):
+It is recommended to follow the bar safety/sanitization measures mentioned below:	கீழே குறிப்பிடப்பட்டுள்ள மது அருந்துமிடப் பாதுகாப்பு / தூய்மைப்படுத்தல் நடவடிக்கைகளைப் பின்பற்றுமாறு பரிந்துரைக்கப்படுகிறது:
+1. Bar counter and stools to be sanitized properly.	1. மது வழங்குமிடம் மற்றும் இருக்கைகள் சரியாக சுத்தம் செய்யப்பட வேண்டும்.
+2. Bar equipment like shakers, blenders, mixers and peg measurers to be cleaned.	2. குலுக்கிகள், கலக்கிகள், கலப்பான்கள், பெக் அளவிடு கருவிகள் போன்ற மதுநிலைய உபகரணங் கள் சுத்தம் செய்யப்பட வேண்டும்.
+3. Ice container trolley to be washed and sanitized.	3. பனிக்கட்டிக் கலத் தள்ளுவண்டி கழுவப்பட்டு சுத்தப்படுத்தப்பட வேண்டும்.
+4. All the alcoholic and non-alcoholic bottles to be sanitized with food grade disinfectant.	4. அனைத்து ஆல்கஹால் கொண்ட, ஆல்கஹால் கொள்ளாத பாட்டில்களும் தரமான கிருமிநாசினியால் சுத்திகரிக்கப்பட வேண்டும்.
+5. All the glassware to be appropriately cleaned and disinfected.	5. அனைத்து கண்ணாடிப் பொருட்களும் சரியான முறையில் சுத்தம் செய்யப்பட்டு கிருமி நீக்கம் செய்யப்பட வேண்டும்.
+6. It is recommended to follow FSSAI guidelines for handling of beverages.	6. பானங்களைக் கையாள fssai வழிகாட்டுதல் களைப் பின்பற்ற வேண்டும்.
+Suggested cleaning process:	பரிந்துரைக்கப்படும் துப்புரவுச் செயல்முறை:
+Restaurant Areas	உணவக இடங்கள்
+Food preparation/ production area, Stores, Packaging area, Service Area, Waste Disposal Area, Office space, Transport Vehicle, Toilets/Washrooms.	உணவு தயாரித்தல் / தயாரிப்பு இடம், சிப்பம்கட்டும் பகுதி கடைகள், சேவைப்பகுதி, கழிவுகளை அகற்றும் பகுதி, அலுவலகப்பகுதி, போக்குவரத்து வாகனம், கழிப்பறைகள் /கழுவுமிடங்கள் போன்றவற்றை சுத்தம் செய்யவும்.
+Soap and water (preferably hot water) followed by disinfection (using freshly prepared 1% hypochlorite solution or equivalent).	சோப்பு மற்றும் நீர் (சூடான நீர் இருப்பின் நல்லது) கொண்டு கழுவி, தொடர்ந்து கிருமி நீக்கம் (புதிதாக தயாரிக்கப்பட்ட 1% ஹைபோகுளோரைட் கரைசல் அல்லது அதற்கு சமமானவற்றைப் பயன்படுத்துதல்) செய்ய வேண்டும்.
+Restaurant Equipment and crockery etc.	உணவக உபகரணங்கள் மற்றும் உணவுக்கலங்கள் போன்றவை.
+The crockery, cutlery, hollowware and service ware etc. be washed with hot water and food grade/ approved disinfectants.	உணவுக்கலங்கள், நறுக்குக்கருவிகள், வெற்றுப் பாத்திரங்கள் மற்றும் பயன்பாட்டுப் பாத்திரங்கள் போன்றவை வெந்நீர் மற்றும் உணவுத் தரஅமைப்பி னால் அங்கீகரிக்கப்பட்ட கிருமிநாசினிகளால் கழுவப்பட வேண்டும்.
+<TABLE-data>	<table-data>
+2.2|	2.2 |
+Personal Hygiene: Employee/Staff	தனிப்பணியாளரின் / பணியாளர்கள்குழுவின் தனிப்பட்ட சுகாதாரம்:
+All Employees must ensure impeccable hygiene practices to avoid cross contamination.	குறுக்கு மாசுபாட்டைத் தவிர்ப்பதற்கு அனைத்து ஊழியர்களும் குறையற்ற சுகாதார நடைமுறைகளை உறுதிப்படுத்த வேண்டும்.
+2.2.1|	2.2.1 |
+3. All staff shall maintain respiratory etiquettes i.e. covering mouth and nose with bent elbow or tissue when coughing or sneezing. The used tissue should be disposed of immediately as per prescribed norms.	3. அனைத்து ஊழியர்களும் மூச்சுவிடுதல் நடைமுறை களைப் பின்பற்ற வேண்டும். அதாவது இருமும்போது அல்லது தும்மும்போது வாயையும் மூக்கையும் முழங்கையினால் அல்லது துடைப்புத் தாளால் மூடிக் கொள்ள வேண்டும். பயன்படுத்தப்பட்ட துடைப்புத் தாள்கள் பரிந்துரைக்கப்பட்ட விதிமுறைகளின்படி உடனடியாக அகற்றப்பட வேண்டும்.
+4. Social distancing should be maintained amongst staff as well as guests and all should refrain from hugging & shaking hands with guests as well as among themselves.	4. ஊழியர்கள், விருந்தினர்களிடையே சமூகத் தொலைவு பராமரிக்கப்பட வேண்டும். மேலும் அனைவரும் விருந்தினர்களும் தங்களுக்கிடையில் தழுவிக்கொள்வதையும் கை குலுக்குவதையும் தவிர்க்க வேண்டும்.
+2.3|	2.3 |
+2.3.1|	2.3.1 |
+Clause | Key Element | Section | Sub Elements | Sub section | Requirements	பிரிவு | முக்கிய உறுப்பு | பிரிவு | துணைக் கூறுகள் | துணை பிரிவு | தேவைகள்
+3.1|	3.1 |
+General Advisories	பொது ஆலோசனைகள்
+These advisories are generic in nature and must be adhered to by all concerned.	இந்தஆலோசனைகள் இயற்கையில் பொதுவானவை. இவற்றைச் சம்பந்தப்பட்ட அனைவரும் கடைப்பிடிக்க வேண்டும்.
+3.1.1|	3.1.1 |
+2. Provide a mask/face cover till such time she/he is examined by a doctor.	2. அவர் ஒரு மருத்துவரால் பரிசோதிக்கப்படும் வரை முகமூடி / முகத்தின் உறையை வழங்கவும்.
+3. Immediately inform the nearest medical facility (hospital/clinic) or call the state or district helpline.	3. உடனடியாக அருகிலுள்ள மருத்துவ வசதிக்கு (மருத்துவமனை / கிளினிக்) தெரிவிக்கவும் அல்லது மாநில அல்லது மாவட்ட உதவித் தொலைபேசியில் அழைக்கவும்.
+4. A risk assessment will be undertaken by the designated public health authority(district RRT/treating physician) and accordingly further action be initiated regarding management of case, her/his contacts and need for disinfection.	4. நியமிக்கப்பட்ட பொது சுகாதார அதிகாரிகளால் (மாவட்ட ஆர்.ஆர்.டி / சிகிச்சையளிக்கும் மருத்துவர்) ஒரு இடர் மதிப்பீடு மேற்கொள்ளப்படும். அதன்படி கிருமி நாசினித் தேவைக்கென பாதிக்கப்பட்ட நபர், அவரது தொடர்பு நபர்கள் குறித்து அடுத்த நடவடிக் கைகள் தொடங்கப்படும்.
+5. Disinfection of the premises to be taken up if the person is found positive.	5. நபருக்கு கோவிட் இருப்பதாகக் காணப்பட்டால் மேற்கொள்ள வேண்டிய வளாகக் கிருமி நீக்கம்.
+3.1.2|	3.1.2 |
+3.1.3|	3.1.3 |
+3.1.4|	3.1.4 |
+1. Social distancing norms (6ft) should be followed by all (guests & staff).	1. சமூகத் தொலைவு விதிமுறையை (6 அடி) (விருந்தி னர்களும் ஊழியர்களும்) அனைவரும் பின்பற்ற வேண்டும்.
+2. The regulation regarding maximum number persons or a gathering in a hall or a confined room shall be followed at all times.	2. ஒரு மண்டபத்தில் அல்லது ஒரு குறிப்பிட்ட அறை யில் அதிகபட்ச எண்ணிக்கையிலான நபர்கள் ஒன்று கூடுவது தொடர்பான நெறிமுறை/கட்டுப்பாடுகள் எல்லா நேரங்களிலும் பின்பற்றப்படும்.
+3.1.5|	3.1.5 |
+1. Spitting shall be strictly prohibited in all areas except for the place assigned for.	1. ஒதுக்கப்பட்ட இடம் தவிர அனைத்து பகுதிகளிலும் துப்புவது கண்டிப்பாகத் தடைசெய்யப்படும்.
+2. Prohibit sharing of lockers or uniform or any other common items like notepad, pen etc.	2. லாக்கர்கள், சீருடைகள் அல்லது குறிப்பேடு, பேனா போன்ற பிற பொதுவான பொருட்களையும் பகிர்வதைத் தடைசெய்யவும்.
+3.1.6|	3.1.6 |
+3.2|	3.2 |
+This is the first line of defence and all persons must be screened while entering the premises while maintaining all precautions.	இது பாதுகாப்புக்கான முதல் கட்ட நடவடிக்கை. அனைத்து முன்னெச்சரிக்கை நடவடிக்கைகளையும் மேற்கொண்டு, அனைத்து நபர்களும் வளாகத்திற்குள் நுழையும்போது கண்காணிக்கப்படுவர்.
+3.2.1|	3.2.1 |
+Screening & Sanitization at Entry	நுழைவாயிலில் கண்காணிப்பும் தூய்மையாக்கமும்
+1. All employees, visitors, guests etc. shall undergo screening for measurement of body temperature and sanitization of their hands.	1. ஊழியர்கள், வருகையாளர்கள், விருந்தினர்கள் அனைவரின் உடல் வெப்பநிலையை அளவிடுவதற் கும் அவர்களின் கைகளை சுத்திகரிப்பதற்கும் கண்காணிப்புக்கு உட்படுத்தப்படுவார்கள்.
+7. Ministry of Health and Family Welfare’s protocol/SOPs is to be adhered to for handling suspected & COVID positive guests or employees.	7. சந்தேகத்திற்கிடமான மற்றும் கோவிட் பாசிடிவ் விருந்தினர்கள் அல்லது பணியாளர்களைக் கையாளு வதற்கு சுகாதார மற்றும் குடும்ப நல அமைச்சகத்தின் நெறிமுறைகள் / எஸ்ஓபிக்கள் கடைபிடிக்கப்பட வேண்டும்.
+3.3|	3.3 |
+Dining Area	உணவு உண்ணும் பகுதி
+All precautions related to seating and handling of food service should be taken to minimize risks.	அபாயங்களைக் குறைக்கவேண்டி, இருக்கைகள் மற்றும் உணவுச் சேவை அளிப்பு தொடர்பான அனைத்து முன்னெச்சரிக்கைகளும் மேற்கொள்ளப்பட வேண்டும்.
+1. Seating arrangement in the restaurant shall be made in such a way that adequate social distancing is maintained. Ensure that the seating capacity is reduced by 50% and the seating style is changed so as to maintain social distancing. (only for the pandemic phase, following MHA/FSSAI guidelines)	1. உண்ணும் இடத்தில் இருக்கை ஏற்பாடு (ஏதேனும் இருந்தால்) போதுமான சமூகத் தொலைவைப் பராமரிக்கும் வகையில் செய்யப்படும். (mha / fssai வழிகாட்டுதல்களைப் பின்பற்றி, தொற்றுநோய்க்கு மட்டும்) சமூகத் தொலைவைத் தக்கவைத்துக் கொள் ளும் வகையில் இருக்கைத் திறன் 50% குறைக்கப் படுவதையும், இருக்கைப் பாணி மாற்றப்படுவதையும் உறுதிசெய்யவும்.
+2. Tables to families/groups to be allocated strategically to avoid contamination with other tables.	2. பிற மேசைகளுடன் தொடர்பு மாசுபாட்டைத் தவிர்க்க குடும்பங்கள் / குழுக்களுக்கான மேசைகள் உத்திபூர்வ முறையில் ஒதுக்கப்பட வேண்டும்.
+3. Ensure floor markings indicating social distancing wherever needed.	3. தேவைப்படும் இடங்களில் சமூக தொலைவைக் குறிக்கும் தரை அடையாளங்களை இடவும்.
+4. Only bottled water, where outer side of the bottle is disinfected, to be used for providing water to guests.	4. பாட்டிலின் வெளிப்புறம் கிருமி நீக்கம் செய்யப் பட்ட பாட்டில் தண்ணீர் மட்டுமே விருந்தினர்களுக்கு வழங்கப்பட வேண்டும்.
+5. Disposable menus are advised.	5. பயன்படுத்தி-எறிந்துவிடும் மெனுக்களைப் பயன் படுத்துவது அறிவுறுத்தப்படுகிறது.
+6. Instead of cloth napkins/serviettes, use of good quality disposable paper napkins shall be encouraged.	6. துணிக்குட்டைகள்/மேசைக்குட்டைகளுக்கு பதில், நல்ல தரமான பயன்படுத்தி-எறியும் காகிதக் குட்டைக ளின் பயன்பாட்டை ஊக்குவிக்க வேண்டும்.
+7. Only cooked food to be included in the menu and wherever possible to avoid inclusion of raw or cold food like salads etc.	7. சமைத்த உணவு மட்டுமே மெனுவில் சேர்க்கப்பட வேண்டும். முடிந்த இடங்களில் எல்லாம் சாலடு போன்ற சமைக்கப்படாத அல்லது குளிர்ந்த உணவைச் சேர்ப்பதைத் தவிர்க்கவும்.
+8. Buffet service should be avoided. If unavoidable, then only the trained service staff to serve the food from buffet table/chafing dishes.	8. தானே உணவெடுத்து உண்ணுதல் (பஃபே) முறை யைத் தவிர்க்க வேண்டும். தவிர்க்க முடியாவிட்டால், பஃபே மேசையிலிருந்து/வெப்பமூட்டிக் கலங்களிலி ருந்து உணவைப் பரிமாறப் பயிற்சி பெற்ற ஊழியர் கள் மட்டுமே பரிமாற வேண்டும்.
+9. Only designated staff to serve the food on a particular table.	9. ஒரு குறிப்பிட்ட மேசையில் உணவை பரிமாற நியமிக்கப்பட்ட ஊழியர்கள் மட்டுமே பரிமாற வேண்டும்.
+10. The service equipment to be segregated and stored in sanitized cupboards.	10. பயன்பாட்டு உபகரணங்களைப் பிரித்து சுத்திகரிக் கப்பட்ட அலமாரியில் வைக்க வேண்டும்.
+11. The soiled dishes to be immediately taken to dishwashing area and not left on the sideboards. The leftover food to be discarded in the designated bins with lids. The garbage should be disposed of on regular/daily basis.	11. அழுக்கடைந்த தட்டுகளை உடனடியாக பாத்திரங் களைக் கழுவுதல் பகுதிக்கு எடுத்துச் செல்லவேண்டும். அவற்றைப் பக்கப்பலகைகளில் விடக்கூடாது. மீத முள்ள உணவை மூடிகளுடன் கூடியதொட்டிகளில் போடவேண்டும். குப்பைகளை முறையான/தினசரி வழக்கப்படி அப்புறப்படுத்த வேண்டும்.
+12. Contactless mode of ordering and digital mode of payment (using e-wallets etc.) shall be encouraged.	12. தொடுகை இல்லாத உணவழைப்பு முறை மற்றும் எண்ணியல் கட்டணம் செலுத்தும் முறை (மின்-பணப்பைகள் போன்றவற்றைப் பயன்படுத்துதல்) ஊக்குவிக்கப்படும்.
+13. HACCP/ISO/FSSAI standards to be followed for cleanliness of F&B material and hygiene.	13. உணவு-உறைவிட பொருள் மற்றும் சுகாதாரத்தின் தூய்மைக்கு haccp / iso / fssai தரநிலைகள் பின்பற்றப்பட வேண்டும்.
+3.4|	3.4 |
+The intent of social distancing to be practiced and optimum use of human resources.	சமையலறை / உணவு சமைக்கும் பகுதியில் சமூக விலகலின் நோக்கத்துக்கும் மனித வளத்தைப் பயன்படுத்தலுக்கும் ஏற்ப அமையவேண்டும்.
+3.4.1|	3.4.1 |
+1. Kitchens to plan social distancing in a practical manner.	1. சமையலறைகள் நடைமுறை நிலைக்கேற்ப சமூகத் தொலைவைத் திட்டமிடவேண்டும்.
+2. Worktables to be realigned in such a manner that staff do not face each other and also maintain social distance.	2. பணியாளர்கள் ஒருவருக்கொருவர் எதிரிடாத வித மாகவும், சமூகத் தொலைவை பராமரிக்கும் வகையி லும் பணிமேசைகள் வடிவமைக்கப்பட வேண்டும்.
+3. Optimize employees in production area to ensure physical distancing	3. உடல் ரீதியான தொலைவை உறுதிப்படுத்துவ தற்கு சமைக்கும் பகுதியில் பணியாளர்கள் எண்ணிக் கையைக் கட்டுப்படுத்தவும்.
+4. Keep staggered workstations in the food preparation area.	4. உணவு சமைக்கும் இடத்தில் ஒன்றையொன்று தொடாத அமருமிடங்களை வைத்திருங்கள்.
+3.5|	3.5 |
+Home Delivery of F&B (if applicable)	(பொருந்துமாயின்)உணவு-காலையுணவு ஏற்பாடு வீட்டுக்குச் சென்று வழங்குதல்
+Guests to be encouraged for takeaways instead of dine-in. Precautions must be maintained during delivery.	விருந்தினர்கள் உள்ளிருந்து உணவருந்துவதற்குப் பதிலாக வெளியில் எடுத்துச் சென்று உண்ண ஊக்குவிக்கப்பட வேண்டும். உணவு தரும்போது முன்னெச்சரிக்கைகள் பராமரிக்கப்பட வேண்டும்.
+3.5.1|	3.5.1 |
+1. Cleaning, sanitizing and disinfection measures shall be adopted to ensure that food packaging is kept clean and away from sources of contamination.	1. உணவுச் சிப்பம் கட்டுதல் சுத்தமாகவும், மாசுபடுத் தும் பொருள்களிலிருந்து விலகியும் இருப்பதையும் உறுதி செய்யவும். இதற்கென சுத்தம் செய்தல், தூய்மைப்படுத்தல், கிருமிநாசினி பயன்பாடுகள் மேற்கொள்ளப்படும்.
+2. Ensure that the drivers, loaders and other staff are trained about the COVID-19 infection symptoms and measures for prevention. They should maintain high standards of personal hygiene.	2. கோவிட்-19 நோய்த்தொற்று அறிகுறிகள் மற்றும் தடுப்பு நடவடிக்கைகள் குறித்து ஓட்டுநர்கள், சுமை ஏற்றிகள் மற்றும் பிற ஊழியர்களுக்கு பயிற்சி அளிக்கப்படுவதை உறுதிசெய்யவும். அவர்கள் தங்கள் தனிப்பட்ட சுகாதாரத்தில் உயர் தரத்தை பராமரிக்க வேண்டும்.
+3. Clean & Sanitize Delivery/ transport vehicles regularly. Use designated vehicle only for food deliveries / distribution only.	3. விநியோக / போக்குவரத்து வாகனங்களை தவறாமல் சுத்தம் செய்யவேண்டும். நியமிக்கப்பட்ட வாகனத்தை உணவு அளிப்பு / விநியோகத்திற்கு மட்டுமே பயன்படுத்தவும்.
+4. Hand washing material and Sanitizer bottle to be fixed in driver cabin.	4. ஓட்டுநர் பகுதியில் கை கழுவு பொருள் மற்றும் தூய்மைப்படுத்தி பாட்டில் பொருத்தப்பட வேண்டும்.
+6. Face covers to be worn at all times.	6. முக மூடிகள் (உறைகள்) எல்லா நேரங்களிலும் அணிய வேண்டும்.
+7. Avoid use of public toilets and crowded places during the breaks.	7. இடைவேளைகளின் போது பொது கழிப்பறைக ளையும் நெரிசலான இடங்களையும் பயன்படுத்து வதைத் தவிர்க்கவும்.
+9. Leave the item 6 ft. away from the doorstep of guest after informing her/him. Do not handover directly.	9. விருந்தினரின் அறை வாசலில் இருந்து 6 அடி தூரத்தை அவருக்குத் தெரிவித்தபின் பொருளை வைத்து விடுங்கள். நேரடியாகத் தர வேண்டாம்.
+10. Maintain relevant records.	10. ஏற்புடைய பதிவேடுகளைப் பராமரிக்கவும்.
+Clause | Key Element | Section | Sub Elements | Sub section | Requirements	பிரிவு | முக்கிய உறுப்பு | பிரிவு | துணைக் கூறுகள் | துணை பிரிவு | தேவைகள்
+4|	4 |
+Communication, Training & Awareness	தொடர்பும், பயிற்சியும், விழிப்புணர்வும்
+4.1|	4.1 |
+Communication, Awareness & Training measures 	தொடர்பு, விழிப்புணர்வு, பயிற்சி நடவடிக்கைகள்
+Overall communication, awareness and training through non-contact methods is essential.	தொடுகை இல்லாத முறைகள் மூலம் ஒட்டுமொத்தத் தொடர்பு மற்றும் விழிப்புணர்வுப் பயிற்சி அவசியம்.
+4.1.1|	4.1.1 |
+2. The DO’s and DON’Ts shall be clearly conveyed through various mediums, both for guests as a well as employees.	2. விருந்தினர்களுக்கும் பணியாளர்களுக்கும் பல்வேறு ஊடகங்கள் மூலம் செய்யவேண்டியவற்றை யும் செய்யக்கூடாதவற்றையும் தெளிவாகத் தெரிவிக்க வேண்டும்.
+4.1.2|	4.1.2 |
+Awareness through Informational Signs & A/V Media:	தகவல் அடையாளங்கள், காட்சி-கேட்பு ஊடகங்கள் மூலம் விழிப்புணர்வு:
+1. Provision of regular training shall be in place for all employees (regular as well as contractual) on the established hygiene and safety guidelines for safe working (log of training or video record of session to be kept).	1. (வழக்கமான மற்றும் ஒப்பந்த அடிப்படையிலான) அனைத்து ஊழியர்களுக்கும் பாதுகாப்பான பணிக் காக, ஏற்கெனவேயுள்ள சுகாதாரம் மற்றும் பாதுகாப்பு வழிகாட்டுதல்களில் பயிற்சி அளிக்கப்பட வேண்டும்.
+2. Additionally, awareness may also be imparted through informational signs or A/V Media encouraging risk-minimizing behavior and should be displayed at prominent locations.	2. தகவல் அடையாளங்கள் அல்லது காட்சி-கேட்பு ஊடக மூலமாகவும் விழிப்புணர்வு வழங்கப்படலாம். ஆபத்தை குறைக்கும் நடத்தையை ஊக்குவிப்பதற்காக இவை ஊழியர்கள் மற்றும் விருந்தினர்களுக்கான மூலமான/முக்கிய இடங்களில் காட்டப்பட வேண்டும்.
+3. Signage will help in reminding about the practices to be followed and may also assist in behavioral changes.	3. பின்பற்ற வேண்டிய நடைமுறைகளைப் பற்றி நினைவூட்டுவதற்கு அடையாளமுறை உதவும். மேலும் நடத்தை மாற்றங்களுக்கும் உதவக்கூடும்.
+4. Such signage needs to be placed at entrances, exits and all strategic/important locations like hand-wash and hygiene stations and in any transit areas.	4. இத்தகைய அடையாளங்கள் நுழைவாயில்கள், வெளியேறும் இடங்கள், கை கழுவுமிடங்கள் மற்றும் சுகாதார இடங்கள் போன்ற அனைத்து உத்திபூர்வ / முக்கியமான இடங்களிலும் முக்கியப் போக்குவரத்து இடங்களிலும் வைக்கப்பட வேண்டும்.
+5. The signage should be in a language that is clearly understood by the staff.	5. அடையாளங்கள் ஊழியர்களால் தெளிவாகப் புரிந்துகொள்ளக்கூடிய மொழியில் இருக்க வேண்டும்.
+6. The signs/displays must be concise and easy to read, preferably using graphics and illustrations alongside the text.	6. அடையாளங்கள் ஊழியர்களால் தெளிவாகப் புரிந்துகொள்ளக்கூடிய மொழியில் இருக்க வேண்டும் சுருக்கமாகவும் படிக்க எளிதாகவும் இருக்க வேண்டும், எழுத்துரையுடன் வரைகலை, விளக்கப்படங்களைப் பயன்படுத்துவதற்கு முன்னுரிமை தரப்பட வேண்டும்.
+7. As a minimum, the signs must cover the following points:	7. குறைந்தபட்சமாக, அறிகுறிகள் பின்வரும் வாயில்களை உள்ளடக்கியிருக்க வேண்டும்:
+- Use & Disposal of gloves, facemasks and other PPE.	- கையுறைகள், முகமூடிகள் மற்றும் பிற தனிநபர் பாதுகாப்புக் கருவிகள் ஆகியவற்றைப் பயன்படுத்துவதும் அகற்றுவதும்.
+4.1.3|	4.1.3 |
+Posters may be placed at appropriate/visible locations for general awareness; for example:	பொது விழிப்புணர்வுக்கென சுவரொட்டிகள் பொருத்தமான / புலப்படும் இடங்களில் வைக்கப்படலாம்; உதாரணத்திற்கு:
+Clause | Key Element | Section | Sub Elements | Sub section | Requirements	பிரிவு | முக்கிய உறுப்பு | பிரிவு | துணைக் கூறுகள் | துணை பிரிவு | தேவைகள்
+Preventive Measures	தடுப்பு நடவடிக்கைகள்
+5.1|	5.1 |
+Mitigating Risks	அபாயங்களைத் தணித்தல்
+5.1.1|	5.1.1 |
+5.1.2|	5.1.2 |
+Inspection of all machinery/equipment as per the safety protocols during the restart phase shall be done. Considerations include (but not limited to):	மறுதொடக்கக் கட்டத்தில் பாதுகாப்பு நெறிமுறை களின்படி அனைத்து இயந்திரங்கள் / உபகரணங்கள் ஆய்வு செய்யப்படும். இதற்கான கவனிப்பில் பின்வருவன அடங்கும் (ஆனால் இவை மட்டும் அல்ல):
+- Combustible liquids, contained gaseous substances, open wires etc. that make any facility a high-risk environment.	- எரியக்கூடிய திரவங்கள், வாயு பொருட்கள், திறந்த கம்பிகள் போன்றவை எந்த ஒரு வசதியையும் அதிக ஆபத்துள்ள சூழலாக மாற்றுகின்றன.
+5.1.3|	5.1.3 |
+A process shall be in place defining preventive measures to prevent and contain the spread of infection, including (but not limited to):	நோய்த்தொற்று பரவுவதைத் தடுப்பதற்கும் கட்டுப் படுத்துவதற்கும் தடுப்பு நடவடிக்கைகளை வரையறுக் கும் ஒரு செயல்முறை இருக்க வேண்டும். இதில் அடங்குவன (ஆனால் இவை மட்டும் அல்ல):
+- Isolation facility & sanitization protocols for suspected cases till the medical help arrives.	- மருத்துவ உதவி வரும் வரை சந்தேகிக்கப்பட்ட, பாதிக்கப்பட்ட நபர்களுக்கான தனிமை வசதி மற்றும் தூய்மைப்படுத்தல் நெறிமுறைகள்.
+- Emergency numbers and Contact numbers of the nearest hospital.	- அருகிலுள்ள மருத்துவமனையின் அவசர எண்கள் மற்றும் தொடர்பு எண்கள்.
+- A fully functional adequate CCTV system to ease tracking and tracing of infected personnel movement.	- பாதிக்கப்பட்ட பணியாளர்களின் இயக்கத்தைக் கண்காணிப்பதையும் கண்டுபிடிப்பதையும் எளிதாக்குவதற்கு ஒரு முழுமையான செயல்பாட்டுக்கு போதுமான சி.சி.டி.வி அமைப்பு.
+Clause | Key Element | Section | Sub Elements | Sub section | Requirements	பிரிவு | முக்கிய உறுப்பு | பிரிவு | துணைக் கூறுகள் | துணை பிரிவு | தேவைகள்
+6.1|	6.1 |
+Staff/Guest & Goods transport	பணியாளர்கள் / விருந்தினர் மற்றும் பொருட்கள் இடம் மாற்றம்
+6.1.1|	6.1.1 |
+- All vehicles shall be disinfected before the start of a trip and at the end of the trip.	- பயணத்தின் தொடக்கத்திற்கு முன்பும், பயணத்தின் முடிவிலும் அனைத்து வாகனங்களும் கிருமி நீக்கம் செய்யப்படும்.
+- Guest/Staff transport vehicles shall be equipped to ensure and maintain social distancing norms.	- சமூகத் தொலைவு விதிமுறைகளை உறுதிப்படுத்த வும் பராமரிக்கவும் விருந்தினர் / பணியாளர்கள் போக்குவரத்து வாகனங்கள் பொருத்தப்பட்டிருக்கும்.
+- Sanitizers in accordance with prescribed norms or equivalent shall be provided in the vehicles, all the time.	- பரிந்துரைக்கப்பட்ட விதிமுறைகளின்படி அல்லது அதற்கு சமமான தூய்மை நீக்கிகள் எல்லா நேரங்களிலும் வாகனங்களில் வழங்கப்படும்.
+6.1.2|	6.1.2 |
+- Incoming material shall be collected as per FSSAI norms and quarantined at an identified location for safe retention and/or safe disposal.	- உள்வரும் பொருள் fssai விதிமுறைகளின்படி சேகரிக்கப்பட்டு, பாதுகாப்பான தக்கவைப்பு மற்றும் / அல்லது பாதுகாப்பான அகற்றலுக்காக அடையாளம் காணப்பட்ட இடத்தில் தனிமைப்படுத்தப்படும்.
+- Delivery / transport vehicles shall be cleaned and disinfected at a predefined frequency. Sanitizers with prescribed norms or equivalent shall be provided in the vehicles, all the time.	- பொருள் சேர்ப்பு / போக்குவரத்து வாகனங்கள் முன் வரையறுக்கப்பட்ட காலஅளவுகளில் சுத்தம் செய்யப் பட்டு கிருமி நீக்கம் செய்யப்படும். பரிந்துரைக்கப்பட்ட விதிமுறைகள் அல்லது அதற்கு சமமான தூய்மைப் படுத்திகள் வாகனங்களில் எல்லாச் சமயங்களிலும் வழங்கப்படும்.
+6.1.3|	6.1.3 |
+1. Valet parking, if available, shall be operational with operating staff wearing face covers/ masks and gloves as appropriate.	1. பொருந்துமாயின், விருந்தினர்களிடமிருந்து சொந்த வாகனங்களைப்பணியாளர் நிறுத்துவர். செயற்படு ஊழியர்கள் முகத்திரைகள் / முகமூடிகள் மற்றும் கையுறைகளை பொருத்தமாக அணிந்திருப்பர்.
+2. A proper disinfection of steering wheel, door handles, etc. of the vehicles should be taken up.	2. வாகனங்களின் ஸ்டீயரிங், கதவு கைப்பிடிகள் போன்றவற்றை முறையாக கிருமி நீக்கம் செய்ய வேண்டும்.
+Clause | Key Element | Section | Sub Elements | Sub section | Requirements	பிரிவு | முக்கிய உறுப்பு | பிரிவு | துணைக் கூறுகள் | துணை பிரிவு | தேவைகள்
+7.1|	7.1 |
+7.1.1|	7.1.1 |
+7.1.2|	7.1.2 |
+2. Proper queue management and disinfection shall be organized.	2. சரியான வரிசைமுறை மேலாண்மையும் கிருமி நீக்கமும் ஏற்பாடு செய்யப்படும்.
+Clause | Key Element | Section | Sub Elements | Sub section | Requirements	பிரிவு | முக்கிய உறுப்பு | பிரிவு | துணைக் கூறுகள் | துணை பிரிவு | தேவைகள்
+Ventilation	காற்றோட்டம்
+8.1|	8.1 |
+8.1.1|	8.1.1 |
+8.1.2|	8.1.2 |
+2. A robust maintenance mechanism shall in place to ensure that the utilities and filters are working effectively.	2. பயன்படு கருவிகளும் வடிப்பான்களும் திறம்பட செயல்படுகின்றன என்பதை உறுதிப்படுத்த ஒரு வலுவான பராமரிப்பு பொறிமுறை இருக்கும்.
+Clause | Key Element | Section | Sub Elements | Sub section | Requirements	பிரிவு | முக்கிய உறுப்பு | பிரிவு | துணைக் கூறுகள் | துணை பிரிவு | தேவைகள்
+9 |	9 |
+9.1|	9.1 |
+Appropriate waste disposal	பொருத்தமான கழிவுகளை அகற்றுவது
+9.1.1|	9.1.1 |
+9.1.2|	9.1.2 |
+Clause | Key Element | Section | Sub Elements | Sub section | Requirements	பிரிவு | முக்கிய உறுப்பு | பிரிவு | துணைக் கூறுகள் | துணை பிரிவு | தேவைகள்
+Control of Discriminatory Practices	பாரபட்சமான நடைமுறைகளின் கட்டுப்பாடு
+10.1|	10.1 |
+10.1.1|	10.1.1 |

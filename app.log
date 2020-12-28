@@ -1,0 +1,10 @@
+2020-12-28 19:37:38,432 INFO: Parsing command line arguments
+2020-12-28 19:37:38,432 INFO: Reading input file
+2020-12-28 19:37:38,432 INFO: Validating input file
+2020-12-28 19:37:38,433 INFO: /home/nagaraju/Downloads/input-file.txt passed the validation test.
+2020-12-28 19:37:38,433 INFO: Reading parallel file
+2020-12-28 19:37:38,434 INFO: Validating parallel file
+2020-12-28 19:37:38,435 INFO: /home/nagaraju/Downloads/pre-translated.txt passed the validation test.
+2020-12-28 19:37:38,435 INFO: Saving parallel file into hash
+2020-12-28 19:37:38,443 INFO: Searching for source content in saved hash
+2020-12-28 19:37:38,446 INFO: Total lines = 327, Match Found in 187 lines, No Match in 141 lines
