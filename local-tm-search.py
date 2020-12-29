@@ -74,16 +74,32 @@ all_hash = {}
 fp3 = open('out.txt', 'w')
 fp4 = open('matched.txt', 'w')
 
+count = 0
 log.logging.info("Saving parallel file into hash")
 for parallel_line in parallel_lines:
+	count = count + 1
 
 	parallel_line = parallel_line.strip()
 	parallel_line = re.sub(r' +', ' ', parallel_line)
 	parallel_line = parallel_line.lower()
 
+	log.logging.debug("After stripping, Hash saving current line=%s" %(parallel_line))
 	if(parallel_line != ""):
-		src = parallel_line.split("\t")[0]	#contians tab seperated text
-		tgt = parallel_line.split("\t")[1]
+
+		try:
+			src = parallel_line.split("\t")[0]
+		except:
+			src = "Sourcemissing"
+			log.logging.info("Source/Target missing in pre translated file at line=%d, content=%s" %(count, parallel_line))
+
+		#src = parallel_line.split("\t")[0]	#contians tab seperated text
+
+		try:
+			tgt = parallel_line.split("\t")[1]
+		except:
+			log.logging.info("Source/Target missing in pre translated file at line=%d, content=%s" %(count, parallel_line))
+			tgt = "Targetmissing"
+		#tgt = parallel_line.split("\t")[1]
 		
 		src = src.strip()
 		tgt = tgt.strip()
@@ -119,7 +135,7 @@ for input_line in input_lines:
 		if src in all_hash:
 			log.logging.debug("hash key=%s, hash value=%s, inputline=%s" %(src, all_hash[src], input_line))
 			#print(src_bkp, all_hash[src], sep="\t")
-			fp3.write(src_bkp + "\t" + all_hash[src] + "\n")
+			fp3.write(src_bkp + "\t" + all_hash[src] + "\tMatched From TM\n")
 			fp4.write(src_bkp + "\t" + all_hash[src] + "\n")
 			replaced_lines = replaced_lines + 1
 		else:

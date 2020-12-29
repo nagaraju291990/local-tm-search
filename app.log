@@ -1,10 +1,13 @@
-2020-12-28 19:37:38,432 INFO: Parsing command line arguments
-2020-12-28 19:37:38,432 INFO: Reading input file
-2020-12-28 19:37:38,432 INFO: Validating input file
-2020-12-28 19:37:38,433 INFO: /home/nagaraju/Downloads/input-file.txt passed the validation test.
-2020-12-28 19:37:38,433 INFO: Reading parallel file
-2020-12-28 19:37:38,434 INFO: Validating parallel file
-2020-12-28 19:37:38,435 INFO: /home/nagaraju/Downloads/pre-translated.txt passed the validation test.
-2020-12-28 19:37:38,435 INFO: Saving parallel file into hash
-2020-12-28 19:37:38,443 INFO: Searching for source content in saved hash
-2020-12-28 19:37:38,446 INFO: Total lines = 327, Match Found in 187 lines, No Match in 141 lines
+2020-12-29 13:34:44,724 INFO: Parsing command line arguments
+2020-12-29 13:34:44,724 INFO: Reading input file
+2020-12-29 13:34:44,725 INFO: Validating input file
+2020-12-29 13:34:44,726 INFO: /home/nagaraju/Downloads/doc3-join-en-te.txt passed the validation test.
+2020-12-29 13:34:44,726 INFO: Reading parallel file
+2020-12-29 13:34:44,727 INFO: Validating parallel file
+2020-12-29 13:34:44,728 INFO: /home/nagaraju/Downloads/doc1-pre-translation-tel.txt passed the validation test.
+2020-12-29 13:34:44,728 INFO: Saving parallel file into hash
+2020-12-29 13:34:44,731 INFO: Source/Target missing in pre translated file at line=110, content=intentionally left blank
+2020-12-29 13:34:44,734 INFO: Source/Target missing in pre translated file at line=235, content=intentionally left blank
+2020-12-29 13:34:44,734 INFO: Source/Target missing in pre translated file at line=256, content=intentionally left blank
+2020-12-29 13:34:44,737 INFO: Searching for source content in saved hash
+2020-12-29 13:34:44,742 INFO: Total lines = 328, Match Found in 79 lines, No Match in 250 lines
